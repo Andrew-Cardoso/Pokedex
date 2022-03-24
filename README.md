@@ -2,14 +2,14 @@
 
 ## Techs
 - ### React
-  1. #### - Typescript 
-  2. #### - Stitches
-  3. #### - Vite
-- ### - Nodejs
-  1. #### - Typescript
-  2. #### - Express
-  3. #### - Redis
-  4. #### - Connection to [PokeApi](https://pokeapi.co/)
+  #### Typescript 
+  #### Stitches
+  #### Vite
+- ### Nodejs
+  #### Typescript
+  #### Express
+  #### Redis
+  #### Connection to [PokeApi](https://pokeapi.co/)
 
 
 ## Run
